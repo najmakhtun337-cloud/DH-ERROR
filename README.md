@@ -1,6 +1,6 @@
 ## 🚀Deployment Guide – Loft Quantum ⚡️
 
-<img src="https://i.imgur.com/9bO5l2G.gif" width="80" align="right"/>
+<img src="https://files.catbox.moe/snt5ow.jpg" width="80" align="right"/>
 
 Get your **Loft Quantum** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
 
