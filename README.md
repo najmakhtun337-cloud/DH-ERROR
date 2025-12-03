@@ -63,14 +63,3 @@ Want to run it locally or on your own server? Grab the complete package instantl
   <img src="https://files.catbox.moe/snt5ow.jpg" width="200"/>
 </div>
 
-<br>
-
-<div align="center">
-  <p>
-    <strong>🔒 Military-Grade Uptime • Anti-Crash System • 24/7 Auto-Restart • Premium Support</strong>
-  </p>
-  <p>
-    <em>Over 15,000+ elite developers already dominating with Loft Quantum</em>
-  </p>
-  <img src="https://files.catbox.moe/7eznwl.jpg" width="120"/>
-</div>
