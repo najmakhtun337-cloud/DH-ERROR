@@ -1,4 +1,4 @@
-## 🚀 Premium Deployment Guide – Loft Quantum ⚡️
+## 🚀Deployment Guide – Loft Quantum ⚡️
 
 <img src="https://i.imgur.com/9bO5l2G.gif" width="80" align="right"/>
 
@@ -41,7 +41,7 @@ Full control · Unlimited resources · For serious devs
 
 ### 💎 Katabump Elite Panel (Private & Fastest)
 
-Only the real ones know about this panel 😈
+Only the real ones know about this panel 
 
 <div align="center">
   <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
@@ -57,7 +57,7 @@ Want to run it locally or on your own server? Grab the complete package instantl
 
 <div align="center">
   <a href="https://github.com/xmdloft23/loft-quantum/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/📦 DOWNLOAD ZIP SASA HAPA-ff0000?style=for-the-badge&logo=dropbox&logoColor=white" height="55"/>
+    <img src="https://img.shields.io/badge/📦 DOWNLOAD HERE-ff0000?style=for-the-badge&logo=dropbox&logoColor=white" height="55"/>
   </a>
   <br><br>
   <img src="https://i.imgur.com/6z9bD0E.gif" width="200"/>
