@@ -45,7 +45,7 @@ Only the real ones know about this panel
 
 <div align="center">
   <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-    <img src="https://img.shields.io/badge/💎 KATABUMP ELITE - VIP ONLY-aa00ff?style=for-the-badge&logo=sparkles&logoColor=white" alt="Katabump"/>
+    <img src="https://img.shields.io/badge/💎 KATABUMP ELITE - TAP-aa00ff?style=for-the-badge&logo=sparkles&logoColor=white" alt="Katabump"/>
   </a>
 </div>
 
