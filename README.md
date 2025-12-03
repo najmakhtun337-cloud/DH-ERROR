@@ -1,4 +1,4 @@
-##  ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ™ ⚡️
+##  ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ™ ⚡️ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ
 
 <img src="https://files.catbox.moe/snt5ow.jpg" width="80" align="right"/>
 
