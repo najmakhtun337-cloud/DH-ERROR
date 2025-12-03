@@ -72,5 +72,5 @@ Want to run it locally or on your own server? Grab the complete package instantl
   <p>
     <em>Over 15,000+ elite developers already dominating with Loft Quantum</em>
   </p>
-  <img src="https://i.imgur.com/OeY9l9V.gif" width="120"/>
+  <img src="https://files.catbox.moe/7eznwl.jpg" width="120"/>
 </div>
