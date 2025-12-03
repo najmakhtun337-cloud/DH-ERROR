@@ -63,3 +63,21 @@ Want to run it locally or on your own server? Grab the complete package instantl
   <img src="https://files.catbox.moe/piin3u.jpg" width="200"/>
 </div>
 
+<h4 align="center">ᴍᴇᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h4>
+
+<p align="center">
+  <!-- ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ -->
+  <a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%">
+  </a>
+
+  <!-- ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ -->
+  <a href="https://wa.me/255778018545">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%">
+  </a>
+
+  <!-- ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ -->
+  <a href="https://github.com/xmdloft23">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/github.png" width="12%">
+  </a>
+</p>
