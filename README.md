@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/zxcd97.jpg" width="80" align="right"/>
 
-Get your **DHERRO** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
+Get your **DHERROR** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
 
 ### Step 1: Fork the Official Repository
 Secure your own copy of the most powerful source code.
