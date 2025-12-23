@@ -1,8 +1,8 @@
-##  ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ™ ⚡️ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ
+##  DH ERROR™ ⚡️ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ
 
-<img src="https://files.catbox.moe/snt5ow.jpg" width="80" align="right"/>
+<img src="https://files.catbox.moe/zxcd97.jpg" width="80" align="right"/>
 
-Get your **Loft Quantum** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
+Get your **DHERRO** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
 
 ### Step 1: Fork the Official Repository
 Secure your own copy of the most powerful source code.
@@ -67,7 +67,7 @@ Want to run it locally or on your own server? Grab the complete package instantl
 
 <p align="center">
   <!-- ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ -->
-  <a href="https://wa.me/255778018545">
+  <a href="https://wa.me/9046579718">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%">
   </a>
 </p>
