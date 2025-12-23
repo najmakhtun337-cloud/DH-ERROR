@@ -1,5 +1,5 @@
 // ──────────────────────────────────────────────────────────────
-//  MR LOFT – SLIDE MENU 
+//  DH ERROR– SLIDE MENU 
 // ──────────────────────────────────────────────────────────────
 const settings = require('../settings');
 const axios = require('axios');
@@ -19,14 +19,14 @@ const READ_MORE = '\u200B'.repeat(4001);
  * Full Help Message (used only for building slides)
  */
 const HELP_MESSAGE = `
-╭▰▰〔 *ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ* 〕▰▰╮
-✖ 💠 *ʙᴏᴛ ɴᴀᴍᴇ:* ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ
-✖ 👑 *ᴏᴡɴᴇʀ:* 𝚂𝚒𝚛 𝙻𝙾𝙵𝚃
+╭▰▰〔 *DH ERROR* 〕▰▰╮
+✖ 💠 *ʙᴏᴛ ɴᴀᴍᴇ:* DH ERROR 
+✖ 👑 *ᴏᴡɴᴇʀ:* DH WRROR 
 ✖ ⚙️ *ᴠᴇʀꜱɪᴏɴ:* 𝚕𝚊𝚝𝚎𝚜𝚝 𝚀𝚞𝚊𝚗𝚝𝚞𝚖
 ✖ 💻 *ᴘʟᴀᴛꜰᴏʀᴍ:* 𝚀𝚞𝚊𝚗𝚝𝚞𝚖 (𝟸𝟸.𝟶𝟺)
 ✖ 🕐 *ᴜᴘᴛɪᴍᴇ:* ${getUptime()}
 ▰▰▰▰▰▰▰▰▰▰
- ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʟᴏꜰᴛ™
+ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ DH ERROR 
 ▰▰▰▰▰▰▰▰▰▰
 ${READ_MORE}
 # ᴘᴀɢᴇ 01
@@ -267,7 +267,7 @@ const sendSlideHelpMenu = async (sock, chatId, message) => {
       const header = proto.Message.InteractiveMessage.Header.create({
         ...(media || {}),
         title: `*${title}*`,
-        subtitle: "𝙻𝚘𝚏𝚝 𝚀𝚞𝚊𝚗𝚝𝚞𝚖 𝚇𝟽",
+        subtitle: "DH ERROR 𝚇𝟽",
         hasMediaAttachment: !!media,
       });
 
@@ -297,7 +297,7 @@ const sendSlideHelpMenu = async (sock, chatId, message) => {
           message: {
             interactiveMessage: {
               body: { text: "*ꜱʟɪᴅᴇ ʀɪɢʜᴛ*" },
-              footer: { text: "©ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏꜰᴛ" },
+              footer: { text: "©ᴘᴏᴡᴇʀᴅ ʙʏ DH ERROR" },
               carouselMessage: { cards, messageVersion: 1 },
               contextInfo: { forwardingScore: 0, isForwarded: false }
             }
